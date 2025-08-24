@@ -128,7 +128,6 @@ Open your browser at `http://localhost:5173` to see the app.
 
 ## License
 
-MIT License © 2025 Manoj Gowda BG
-
+MIT License © 2025 [Manoj Gowda BG](https://github.com/rmanojgowda)
 ```
 
