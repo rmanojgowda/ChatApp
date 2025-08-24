@@ -1,6 +1,3 @@
-Perfect! Based on your example, here’s a clean and structured `README.md` for your **ChatApp** project in the same style:
-
-```markdown
 # ChatApp
 
 A modern real-time chat application supporting text messaging, image sharing, and user profiles. Built with React, Tailwind CSS, and designed for a seamless user experience.
