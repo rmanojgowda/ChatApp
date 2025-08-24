@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Python virtual environment
+venv/
+
+# System files
+$RECYCLE.BIN/
+$WINDOWS.~TMP/
+Config.Msi/
+.DS_Store
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
